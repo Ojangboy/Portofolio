@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
    
     document.querySelector(".btn-1").addEventListener("click", function() {
-        window.location.href = "#contact";
+        window.open = "Fauzan Farhan Gayo_CV.pdf", "_blank";
     });
 
     
